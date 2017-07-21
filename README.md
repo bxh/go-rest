@@ -1,1 +1,3 @@
-> go install && $GOPATH/bin/go-rest
+```
+go install && $GOPATH/bin/go-rest
+```
